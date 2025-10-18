@@ -13,3 +13,7 @@ Then just type the text and then press the `Ctrl+D` keys to end the typing.
 ```bash
 Z
 ```
+# 파일 만들고 내용 추가하기
+```
+echo "Z" > z
+```
