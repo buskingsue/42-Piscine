@@ -12,7 +12,7 @@ In this exercise, in addition to permissions, date and size, there are some part
 tar -cf exo2.tar *
 ```
 
-압축 풀기
+exo2.tar 파일 압축 풀기
 ```
 tar -xvf exo2.tar
 ```
