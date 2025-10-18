@@ -11,6 +11,12 @@ In this exercise, in addition to permissions, date and size, there are some part
 ```
 tar -cf exo2.tar *
 ```
+
+압축 풀기
+```
+tar -xvf exo2.tar
+```
+
 The Files ** Test0 ** and ** Test2 ** are folders. They need to be created with `mkdir`.
 ```bash
 mkdir test0 test2
