@@ -6,7 +6,10 @@
 In this exercise, in addition to permissions, date and size, there are some particularities that need to be followed.
 
 <br>
-
+현재 폴더에 있는 모든 파일과 폴더를 exo2.tar파일로 압축하기
+```bash
+tar -cf exo2.tar *
+```
 The Files ** Test0 ** and ** Test2 ** are folders. They need to be created with `mkdir`.
 ```bash
 mkdir test0 test2
