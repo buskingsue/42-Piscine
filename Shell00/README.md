@@ -1,3 +1,10 @@
+# 리눅스 명령어
+```
+ls -R
+# 하위 디렉터리까지 재귀적으로 내용을 보여줍니다.
+ls -aR
+# 숨김 파일 까지 포함
+```
 # Shell 00
 
 In these projects we will learn how to use the basic commands of the Linux terminal. All exercises are commented for a better understanding.
